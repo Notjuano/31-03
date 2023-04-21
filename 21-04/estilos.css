@@ -30,7 +30,7 @@ li{
     float:left;
 }
 li a {
-    color: white;
+    color: rgb(0, 0, 0);
     text-align: center;
     text-decoration: none;
     padding: 18px;
