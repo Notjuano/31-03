@@ -43,8 +43,7 @@ li a:hover{
 /* fin NAVBAR */
 /* HERO */
 .hero{
-    background-image:linear-gradient(rgba(63, 36, 241, 0.544),
-                rgba(0,0,0,0.5)), url(img/hero.jpg);
+    background-image: url(img/raton.jpg);
     width: 100%;
     height: 650px;
     background-repeat: no-repeat;
