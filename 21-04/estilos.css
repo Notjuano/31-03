@@ -89,3 +89,20 @@ li a:hover{
     transform: scale(1.05);
 }
 /* fin RESEÑA */
+#gallery{
+    background-color: gainsboro;
+}
+.contenedor-img{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.contenedor-img img{
+    width: 23%;
+    box-shadow: 5px 5px 5px rgba(0,0,0,0.5);
+    margin-bottom:25px;
+    border-radius: 15px;
+}
+.contenedor-img img:hover{
+    transform: scaleX(-1);
+}
