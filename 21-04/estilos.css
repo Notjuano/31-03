@@ -21,7 +21,7 @@ body{
 /* NAVBAR */
 ul{
     list-style-type: none;
-    background-color: black;
+    background-color: rgba(0, 255, 234, 0.432);
     overflow: auto;
     position: fixed;
     width: 100%;
